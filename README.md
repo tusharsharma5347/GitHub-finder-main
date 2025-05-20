@@ -9,13 +9,7 @@ GitHub Finder is a user-centric website designed to facilitate team formation fo
 - **Hackathon Hosting:** In the future, the platform will expand to host hackathons directly, providing users with a comprehensive solution from team formation to event participation.
 
 #### Motivation:
-GitHub Finder was born out of personal challenges faced during hackathons, where team formation proved to be a daunting task. This motivated the development of a user-friendly platform to streamline the process and foster collaboration within the tech community.
+GitHub Finder was born out of personal challenges faced during my personal hackathons experience, where team formation proved to be a daunting task. This motivated the development of a user-friendly platform to streamline the process and foster collaboration within the tech community.
 
-#### Technical Details:
-- **Server File:** The server file for GitHub Finder can be found [here](https://github.com/akshat-bhansali/GitHub-finder-server.git).
+#### Technical Challenges:
 - **Integration Challenges:** The development process encountered difficulties in integrating Socket.IO for real-time chat functionality, which were eventually overcome through perseverance and problem-solving.
-
-#### Future Plans:
-The ultimate goal of GitHub Finder is to become the go-to platform for hackathon team formation, offering a seamless user experience and fostering innovation within the tech community. Additionally, the platform will expand to host hackathons directly, further enhancing its utility and impact.
-
-GitHub Finder is a testament to the power of innovation and collaboration, empowering individuals to connect, collaborate, and create together.
